@@ -1,0 +1,35 @@
+{
+  "public/assets/images/background-dark.jpg": {
+    "file": "assets/background-dark.5b47498c.jpg",
+    "src": "public/assets/images/background-dark.jpg"
+  },
+  "public/assets/images/profile/profile-bg.png": {
+    "file": "assets/profile-bg.f0a1641f.png",
+    "src": "public/assets/images/profile/profile-bg.png"
+  },
+  "public/assets/images/background-light.jpg": {
+    "file": "assets/background-light.cffc121f.jpg",
+    "src": "public/assets/images/background-light.jpg"
+  },
+  "public/assets/images/icons/navigation/home.png": {
+    "file": "assets/home.42c80eb6.png",
+    "src": "public/assets/images/icons/navigation/home.png"
+  },
+  "resources/themes/atom/js/app.js": {
+    "file": "assets/app.cd61bdbd.js",
+    "src": "resources/themes/atom/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.28e668c1.css"
+    ]
+  },
+  "resources/themes/atom/js/app.css": {
+    "file": "assets/app.28e668c1.css",
+    "src": "resources/themes/atom/js/app.css"
+  },
+  "resources/themes/atom/css/app.css": {
+    "file": "assets/app.ca16f820.css",
+    "src": "resources/themes/atom/css/app.css",
+    "isEntry": true
+  }
+}
