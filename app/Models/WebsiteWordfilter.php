@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class WebsiteWordfilter extends Model
 {
-    protected $table = 'website_wordfilter';
+    protected $table = 'wordfilter';
 
     protected $guarded = ['id'];
 }
