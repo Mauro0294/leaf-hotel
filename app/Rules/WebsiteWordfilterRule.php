@@ -14,8 +14,8 @@ class WebsiteWordfilterRule implements InvokableRule
             ->pluck('word')
             ->toArray();
 
-        if (setting('website_wordfilter_enabled') === '1' && in_array(strtolower($value), $words) || Str::contains(strtolower($value), $words)) {
-            $fail(__('The entered username is not allowed on :hotel', ['hotel' => setting('hotel_name')]));
-        }
+        // if (setting('website_wordfilter_enabled') === '1' && in_array(strtolower($value), $words) || Str::contains(strtolower($value), $words)) {
+        //     $fail(__('The entered username is not allowed on :hotel', ['hotel' => setting('hotel_name')]));
+        // }
     }
 }
